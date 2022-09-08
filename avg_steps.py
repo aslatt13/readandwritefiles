@@ -19,13 +19,11 @@ def main():
     for record in csvfile:
         month = record[0]
         
-        avg_steps = 
+        avg_steps = 0
 
         outfile.write(month + ',' + avg_steps + '\n')
 
     outfile.close()
-
-
 
 
 
