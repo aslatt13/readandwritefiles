@@ -18,4 +18,5 @@ def main():
 
     #infile.close() dont have to close the file when reading
 
+
 main()

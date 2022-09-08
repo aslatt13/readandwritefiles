@@ -6,5 +6,6 @@ def main():
     for line in infile: 
         count += 1
         print(str(count),'. ', line,sep='')
+      
         
 main()
